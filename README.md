@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabriel Chimifosk
 
-**Age:** 26  **Nationality:** Brazilian **Location:** Porto Alegre, RS
+I am 26 years old, based at Porto Alegre - Brazil!
 
 ## 🧑‍💻 About Me
 I’m currently completing my **Computer Engineering** degree at **UFRGS**. With over **3 years of full-stack development experience**. I am meticulous about architectural standards, and I'm always driven to find the most efficient way to organize and develop the given application.
