@@ -22,6 +22,8 @@ I specialize in **full-stack development** with a focus on:
 
 [**j'arrive**](https://github.com/garlic1/jarrive-android) - An Android application designed to teach French to Portuguese speakers. **Stack**: React Native, JavaScript, Expo
 
+[**Tile Counter (Intel 8086)**](https://github.com/garlic1/tile-counter-8086) - An Assembly application. File I/O and drawing on screen and simple calculations. **Stack**: 8086 Assembly
+
 ![garlic1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garlic1&theme=react&show_icons=true&hide_border=true&layout=compact)
 ![garlic1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=garlic1&theme=react&hide_border=true)
 
