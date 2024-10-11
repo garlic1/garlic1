@@ -18,7 +18,7 @@ I specialize in **full-stack development** with a focus on:
 ## 📗 My Repos
 [**BRSteam**](https://github.com/garlic1/brsteam) - A case study of the Steam database. **Stack**: Python, PostgreSQL
 
-[**Compilador**](https://github.com/garlic1/brsteam) - A compiler written fully in C for a hypothetical language. **Stack**: C, Makefile
+[**Compilador**](https://github.com/garlic1/compilador) - A compiler written fully in C for a hypothetical language. **Stack**: C, Makefile
 
 [**j'arrive**](https://github.com/garlic1/jarrive-android) - An Android application designed to teach French to Portuguese speakers. **Stack**: React Native, JavaScript, Expo
 
