@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Gabriel Chimifosk
 
-I am a 26-year-old Software Engineer based in Porto Alegre, Brazil.
+I am a 27-year-old Software Engineer based in Porto Alegre, Brazil.
 
 ## 🧑‍💻 About Me
-I’m currently completing my **Computer Engineering** degree at **UFRGS**. With over **3 years of full-stack development experience**. I am meticulous about architectural standards, and I'm always driven to find the most efficient way to organize and develop the given application.
+I am a **Computer Engineer** from **UFRGS** with over **4 years of professional full-stack development experience**. I am meticulous about architectural standards, and I'm always driven to find the most efficient way to organize and develop the given application.
 
 ## 🔧 Tech Stack & Skills
-- **Languages:** JavaScript, TypeScript, Python, C, Java
-- **Technologies:** React, Material UI, jQuery, Linux, AWS
+- **Languages:** JavaScript, TypeScript, Kotlin, Python, Java
+- **Technologies:** React, Material UI, jQuery, Spring, AWS
 
 ## 🚀 What I Do
 I specialize in **full-stack development** with a focus on:
 - Front-end systems using **React** and **Material UI**
-- Back-end development with **Node.js** and **Python**
+- Back-end development with **Node.js** , **Kotlin** and **Python**
 - Cloud solutions on **AWS**
 
 ## 📗 My Repos
