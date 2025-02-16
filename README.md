@@ -3,7 +3,7 @@
 I am a 27-year-old Software Engineer based in Porto Alegre, Brazil.
 
 ## 🧑‍💻 About Me
-I am a **Computer Engineer** from **UFRGS** with over **4 years of professional full-stack development experience**. I am meticulous about architectural standards, and I'm always driven to find the most efficient way to organize and develop the given application.
+I am a **Computer Engineer** graduate from **UFRGS** with over **4 years of professional full-stack development experience**. I am meticulous about architectural standards, and I'm always driven to find the most efficient way to organize and develop the given application.
 
 ## 🔧 Tech Stack & Skills
 - **Languages:** JavaScript, TypeScript, Kotlin, Python, Java
